@@ -1,3 +1,13 @@
+Hello, Volodymir!  This is "Artem Malichenko" in RareKuge LLC. We worked together. My colleague have a startup company project now so I want to connect with you.
+I'd like to work with you again.
+My WhatsApp: +49 15510 703112
+Otherwise, you can reach me to malichenartem13@gmail.com
+I tried to connect to you via your gmail but it failed.
+Hope to see you soon.
+
+Lucas (Nick: Artem)
+
+
 # + NASA Mission Control Project +
 
 The completed version of our NASA project from [Complete Node.js Developer: Zero to Mastery](https://academy.zerotomastery.io/p/learn-node-js?affcode=441520_1jw4f2ay).
